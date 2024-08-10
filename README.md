@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoobNumi</h1>
-<h3 align="center">A 4th Year Information Technology Student and mainly focuses on Front-end development</h3>
+<h3 align="center">IT Graduate with 2 years of experience in web development</h3>
 
 - 🌱 I’m currently learning **Reactjs and Laravel**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **numinum1128@gmail.com**
 
-- 📄 Know about my experiences [https://noobnumi.github.io/portfolio/#projects](https://noobnumi.github.io/portfolio/#projects)
+- 📄 Know about my experiences [https://enn-numi-portfolio-u8ce.onrender.com/](https://enn-numi-portfolio-u8ce.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
