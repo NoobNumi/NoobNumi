@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NoobNumi</h1>
+<h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">IT Graduate with 2 years of experience in web development</h3>
 
 - 🌱 Currently working as an **Associate Software Engineer**
