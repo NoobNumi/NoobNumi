@@ -3,7 +3,7 @@
 
 - 🌱 Currently working as an **Associate Software Engineer**
 
-- 📫 How to reach me **numinum1128@gmail.com**
+- 📫 How to reach me **ninagillianvillamin1128@gmail.com**
 
 - 👨‍💻 Know about my experiences and past projects at [https:/noobnumi.onrender.com/](https:/noobnumi.onrender.com/)
 
