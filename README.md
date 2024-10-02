@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **numinum1128@gmail.com**
 
-- 👨‍💻 Know about my experiences and past projects at [https://enn-numi-portfolio-u8ce.onrender.com/](https://enn-numi-portfolio-u8ce.onrender.com/)
+- 👨‍💻 Know about my experiences and past projects at [https:/noobnumi.onrender.com/](https:/noobnumi.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
