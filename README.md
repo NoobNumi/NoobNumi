@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ninagillianvillamin1128@gmail.com**
 
-- 👨‍💻 Know about my experiences and past projects at [https:/noobnumi.onrender.com/](https:/noobnumi.onrender.com/)
+- 👨‍💻 Know about my experiences and past projects at [https://noobnumi.onrender.com/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
