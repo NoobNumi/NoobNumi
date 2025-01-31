@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nina</h1>
+<h1 align="center">Hi 👋, I'm Niña</h1>
 <h3 align="center">Information Technology Graduate and specializes in front-end web development</h3>
 
 - 🌱 Currently working as an **Associate Software Engineer**
