@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ninagillianvillamin1128@gmail.com**
 
-- 👨‍💻 Know about my experiences and past projects at https://nina-villamin-portfolio.onrender.com/
+- 👨‍💻 Know about my experiences and past projects at **https://www.ninv.me/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
